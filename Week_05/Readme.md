@@ -1,12 +1,18 @@
 # 확률분포 (Probability distribution)
 
-## 1. 정규분포 (Normal distribution)
+## 1. 이산확률분포
+
+### A. 이항분포 (Binomial distribution)
+
+### B. 베르누이분포 (Bernoulli distribution)
+
+## 2. 연속확률분포
+
+## A. 정규분포 (Normal distribution)
 - 표준 정규분포 (Standard Normal distribution)
 
-## 2. 이항분포 (Binomial distribution)
+## B. Student's T 분포 (T distribution)
 
-## 3. 베르누이분포 (Bernoulli distribution)
+## C. F 분포 (F distribution)
 
-## 4. Student's T 분포 (T distribution)
-
-## 5. 카이제곱분포 (Chi-Square distribution)
+## F. 카이제곱분포 (Chi-Square distribution)
